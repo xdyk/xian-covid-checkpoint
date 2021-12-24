@@ -15,5 +15,5 @@
 
 ## 小程序入口
 
-<img src="C:\Users\高永凯\AppData\Roaming\Typora\typora-user-images\1640319473749.png" alt="1640319473749" style="zoom:33%;" />
+<img src="C:\Users\高永凯\Downloads\xian-covid-checkpoint-main\xian-covid-checkpoint-main\小程序二维码.jpg" alt="小程序二维码" style="zoom:25%;" />
 
